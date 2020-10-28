@@ -8,10 +8,9 @@ Requirements
 
 1. Python
 2. pdflatex
-3. A CSV file containing the following information about the job positions you are applying to:
-
-  3.1 The first line being: #,ID,Institution,Position,Group,People
-  3.2 The next lines being the number, some identifier, the name of the institution, a one sentence description of the position, the group in the institution with which you want to work or collaborate, and the PI/Boss/Head of Department to which the letter is addressed.
+3. A CSV file containing the following information about the job positions you are applying to:  
+  3.1 the first line being: #,ID,Institution,Position,Group,People,  
+  3.2 the next lines being the number, some identifier, the name of the institution, a one sentence description of the position, the group in the institution with which you want to work or collaborate, and the PI/Boss/Head of Department to which the letter is addressed.  
 
 How to run
 -----------------------------------------
