@@ -1,0 +1,5 @@
+% 01_old_arnor.txt
+\def\institution{Old Arnor University}
+\def\position{a postdoctoral position}
+\def\group{Department of Middle Earth Studies}
+\def\people{Prof. Ar-Pharazon and Members of the Search Committee}

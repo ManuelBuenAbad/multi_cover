@@ -1,0 +1,5 @@
+% 03_hobbiton.txt
+\def\institution{Hobbiton Town College}
+\def\position{a position as Resident Historian and Disturber of the Peace}
+\def\group{Department of Hobbitses}
+\def\people{Mayor Goldilocks Gardner}

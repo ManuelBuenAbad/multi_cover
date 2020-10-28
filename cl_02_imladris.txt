@@ -1,0 +1,5 @@
+% 02_imladris.txt
+\def\institution{Rivendell Institute of Advanced Studies}
+\def\position{a junior position with a ``Earendil Fellowship''}
+\def\group{Valinor School of Natural Sciences}
+\def\people{Profs. Elrond Peredhel and Celebrian and Members of the Search Committee}
