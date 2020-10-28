@@ -1,5 +1,10 @@
 import os
 import csv
+import sys
+
+# the name of the csv file with the job data
+job_data_file = sys.argv[1]
+
 
 def tex_lines(ident, inst, pos, group, people):
     """
@@ -14,7 +19,7 @@ def tex_lines(ident, inst, pos, group, people):
 
 
 
-with open('job_data.csv') as data:
+with open(job_data_file+'.csv') as data:
     
     reader = csv.reader(data)
     rows = list(reader)
