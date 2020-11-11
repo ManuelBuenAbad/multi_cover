@@ -17,6 +17,6 @@ How to run
 
 In the terminal, simply do:
 
-$ python multi_cover.py your_job_data_file
+	$ python multi_cover.py your_job_data_file
 
 without the csv preffix.
